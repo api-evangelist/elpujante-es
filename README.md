@@ -72,6 +72,20 @@ El Pujante is a Spanish platform that aggregates and analyses repossessed flats 
 
 Everything profiled for El Pujante is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/elpujante-es/](https://apis.io/providers/elpujante-es/)** — or go straight to one of the APIs or properties below.
 
+### APIs (1)
+
+- [El Pujante API](https://apis.io/apis/elpujante-es/el-pujante-api/) — API for El Pujante platform providing access to property auction data and AI insights.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Elpujante Es Domain Security](https://apis.io/security/elpujante-es/elpujante-es-domain-security/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
@@ -79,12 +93,53 @@ Links to the company's own pages. This repository publishes no copy of their spe
 - [Website](https://elpujante.es/)
 - [Documentation](https://elpujante.es/en/como-funciona)
 - [Pricing](https://elpujante.es/en/precios)
+- [Blog](https://elpujante.es/en/blog)
 - [Terms of service](https://elpujante.es/en/terminos)
 - [Privacy policy](https://elpujante.es/en/privacidad)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/elpujante-es/](https://apis.io/providers/elpujante-es/).
+**Kin Score 15.6** — emerging · rubric 0.27.0 · scored 2026-11-07
+
+| Facet | Score |
+|---|---|
+| Discoverability | 53.6 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 21.4 |
+| Access clarity | 31.6 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/elpujante-es/](https://apis.io/providers/elpujante-es/).
 
 ## How this profile is made
 
